@@ -62,6 +62,7 @@ case $count in
 esac
 
 echo 'INFO: ALL fping process create completed. Please wait until ping complete.'
+
 wait
 
 # Output process part
